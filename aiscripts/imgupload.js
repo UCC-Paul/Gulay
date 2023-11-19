@@ -1,14 +1,14 @@
 const URL = 'https://teachablemachine.withgoogle.com/models/KX18a0a44/';
 
-    let model, labelContainer, maxPredictions;
+    let modelupload, labelContainer, maxPredictions;
 
-    async function init() {
+    async function initupload() {
         const modelURL = URL + 'model.json';
         const metadataURL = URL + 'metadata.json';
 
         // load the model and metadata
-        model = await tmImage.load(modelURL, metadataURL);
-        maxPredictions = model.getTotalClasses();
+        modelupload = await tmImage.load(modelURL, metadataURL);
+        maxPredictions = modelupload.getTotalClasses();
 
         labelContainer = document.getElementById('recognition-label');
         for (let i = 0; i < maxPredictions; i++) {
@@ -19,7 +19,7 @@ const URL = 'https://teachablemachine.withgoogle.com/models/KX18a0a44/';
 
     async function predict() {
         var image = document.getElementById('imagePreview');
-        const prediction = await model.predict(image, false);
+        const prediction = await modelupload.predict(image, false);
     
         let maxProbability = -1;
         let maxIndex = -1;
@@ -70,7 +70,7 @@ const URL = 'https://teachablemachine.withgoogle.com/models/KX18a0a44/';
                 $('#imagePreview').fadeIn(650);
             };
             reader.readAsDataURL(input.files[0]);
-            init().then(() => {
+            initupload().then(() => {
 
              predict();
             });

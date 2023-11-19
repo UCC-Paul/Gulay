@@ -16,13 +16,9 @@ clearLocationButton.addEventListener("click", () => {
   locationDiv.innerText = "";
   locationSelect.innerHTML = `
     <option selected="selected" disabled hidden>Select City or Plant at Home</option>
-    <option value="Backyard">Plant at Home</option>
+    <option value="Home">Plant at Home</option>
     <option value="Baguio">Baguio City</option>
     <option value="MM">Metro Manila</option>
-    <option value="Mindanao">Mindanao</option>
-    <option value="Visayas">Visayas</option>
-    <option value="Cebu">Cebu City</option>
-    <option value="Cotabato">Cotabato City</option>
     <option value="Caloocan">Caloocan City</option>
     `;
 });
