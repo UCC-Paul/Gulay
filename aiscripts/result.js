@@ -12,7 +12,7 @@ const crops = {
   "MM-Loam-May": "Ampalaya",
   "Home-Loam-September": "Kalabasa",
   "Baguio-Loam-September": "Strawberry",
-  "Caloocan-Sandy-April": "Tomato"
+  "Caloocan-Sandy-April": "Tomato, Ampalaya"
 };
 
 getResultBtn.addEventListener("click", () => {
@@ -29,12 +29,12 @@ getResultBtn.addEventListener("click", () => {
     resultH1.innerText = crop;
 
     // Show/hide elements based on the crop value
-    if (crop === "Tomato") {
+    if (crop.toLowerCase().includes("tomato")) {
       tomatoContainer.style.display = "block";
     } else {
       tomatoContainer.style.display = "none";
     }
-    if (crop === "Ampalaya") {
+    if (crop.toLowerCase().includes("ampalaya")) {
       ampalayaContainer.style.display = "block";
     } else {
       ampalayaContainer.style.display = "none";
