@@ -10,8 +10,8 @@ img{
 }
 .img-display{
     overflow: hidden;
-    width: 500px;
-    margin: 20px 70px 20px;
+    width: 100%;
+
 }
 .img-showcase{
     display: flex;
