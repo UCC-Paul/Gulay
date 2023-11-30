@@ -42,8 +42,6 @@
             <h1 class="display-3 mb-3 animated slideInDown">AI Soil Identifier and <br>Smart Crop Recommendations</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item"><a class="text-body" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-body" href="#">Pages</a></li>
                     <li class="breadcrumb-item text-dark active" aria-current="page">AI Soil Identifier</li>
                 </ol>
             </nav>
@@ -73,8 +71,8 @@
                             <option value="MM">Metro Manila</option>
                             <option value="Caloocan">Caloocan City</option>
                         </select>
-                        <button id="get-location" class="form-control">Get Location Automatically</button>
-                        <button id="clear-location" class="form-control">Clear Location</button>   
+                        <button id="get-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Location Automatically</button>
+                        <button id="clear-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Clear Location</button>   
                         <div id="location-details"></div>
                         <h5 class="text-white">Planting Date</h5>
                         <select id="select-month">
@@ -95,7 +93,7 @@
                         
                         
                         <div class="d-flex pt-2">
-                            <button id="getresult">Get Crop Recommendation</button>
+                            <button id="getresult" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Crop Recommendation</button>
                         </div>
                     </div>
                 </div>
@@ -103,21 +101,18 @@
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <img id="imagePreview" style="height: 200px; border: 2px solid #ccc;">
+                                    <img id="imagePreview" style="height: 300px; width: 300px; border: 2px solid black; background: url(img/noimg.jpg)">
                                     <input id="imageUpload" type="file" />      
                                     <div id="recognition-label"></div>    
-                                    <button id="clear-image-and-select" class="form-control">Clear Image</button>
+                                    <button id="clear-image-and-select" class="btn btn-primary rounded-pill py-3 px-5" style="margin-top: 4rem;">Clear Image</button>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <div id="webcam-container"></div>
-                                    <div id="webcam-prediction-label"></div>
-                                    <button type="button" onclick="init()" class="form-control" id="btncamera" >Start Webcam</button>
+                                    <div id="webcam-container" style="height: 300px; width: 300px; border: 2px solid black; background: url(img/noimg.jpg)"></div>
+                                    <div id="webcam-prediction-label" style="font-size: 14px; height: 5px;"></div>
+                                    <button onclick="init()" class="btn btn-primary rounded-pill py-3 px-5" id="btncamera" style="margin-top: 5.5rem;">Start Webcam</button>
                                 </div>
-                            </div>
-                            <div class="col-12">
-                                <button class="btn btn-primary rounded-pill py-3 px-5" type="submit">Send Message</button>
                             </div>
                         </div>
                 </div>

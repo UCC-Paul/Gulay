@@ -104,7 +104,7 @@
                     <p><i class="fa fa-check text-primary me-3"></i>Home Gardening Reduces Carbon Emission</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Gardening Makes a Fine Family Hobby</p>
                     <p><i class="fa fa-check text-primary me-3"></i>It Reduces Your Grocery Budget</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="https://www.bria.com.ph/articles/the-benefits-of-growing-your-own-food-tips-for-starting-a-home-garden/">Read More</a>
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                 <h1 class="display-5 mb-3">Our Features</h1>
-                <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                <p>Our team's Mission is to help you start planting right now!</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -164,7 +164,7 @@
                     <p class="text-white mb-0">Our group has developed Artificial Intelligence to assist you in determining the kind of soil you have. The Smart Crop Recommendations System, which VegetalBite has also created, will recommend the optimum crop for your type of soil.</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Try Now</a>
+                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="ai.php">Try Now</a>
                 </div>
             </div>
         </div>
@@ -184,32 +184,32 @@
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                    <img class="img-fluid" src="img/DoA.png" alt="" style="height: 285px;">
                     <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
+                        <a class="d-block h5 lh-base mb-4" href="https://cagayanvalley.da.gov.ph/">Derpartment of Agriculture Cagayan Valley Region</a>
                         <div class="text-muted border-top pt-4">
                             <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
+                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>Informations Used</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
+                    <img class="img-fluid" src="img/ati.png" alt="">
                     <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
+                        <a class="d-block h5 lh-base mb-4" href="https://ati2.da.gov.ph/ati-car/content/sites/default/files/2022-12/urban_agriculture_for_lowland.pdf">Agricultural Training Institute</a>
                         <div class="text-muted border-top pt-4">
                             <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
+                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>Informations Used</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="img/blog-3.jpg" alt="">
+                    <img class="img-fluid" src="img/dad.png" alt="" style="height: 285px;">
                     <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
+                        <a class="d-block h5 lh-base mb-4" href="https://thegardeningdad.com/best-vegetables-to-grow-in-the-philippines/">Best Vegetables to grow in Philippines 2023</a>
                         <div class="text-muted border-top pt-4">
                             <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
+                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>Informations Used</small>
                         </div>
                     </div>
                 </div>

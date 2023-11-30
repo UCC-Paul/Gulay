@@ -73,8 +73,8 @@
                             <option value="MM">Metro Manila</option>
                             <option value="Caloocan">Caloocan City</option>
                         </select>
-                        <button id="get-location" class="form-control">Get Location Automatically</button>
-                        <button id="clear-location" class="form-control">Clear Location</button>   
+                        <button id="get-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Location Automatically</button>
+                        <button id="clear-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Clear Location</button>   
                         <div id="location-details"></div>
                         <h5 class="text-white">Planting Date</h5>
                         <select id="select-month">
@@ -95,37 +95,37 @@
                         
                         
                         <div class="d-flex pt-2">
-                            <button id="getresult">Get Crop Recommendation</button>
+                            <button id="getresult" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 250px; align-self: center; font-size: 14px;">Get Crop Recommendation</button>
                         </div>
                     </div>
                 </div>
+
+
                 <div class="col-lg-7 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <img id="imagePreview" style="height: 200px; border: 2px solid #ccc;">
+                                    <img id="imagePreview" style="height: 300px; width: 300px; border: 2px solid black; background: url(img/noimg.jpg)">
                                     <input id="imageUpload" type="file" />      
                                     <div id="recognition-label"></div>    
-                                    <button id="clear-image-and-select" class="form-control">Clear Image</button>
+                                    <button id="clear-image-and-select" class="btn btn-primary rounded-pill py-3 px-5" style="margin-top: 4rem;">Clear Image</button>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <div id="webcam-container"></div>
-                                    <div id="webcam-prediction-label"></div>
-                                    <button type="button" onclick="init()" class="form-control" id="btncamera" >Start Webcam</button>
+                                    <div id="webcam-container" style="height: 300px; width: 300px; border: 2px solid black; background: url(img/noimg.jpg)"></div>
+                                    <div id="webcam-prediction-label" style="font-size: 14px; height: 5px;"></div>
+                                    <button onclick="init()" class="btn btn-primary rounded-pill py-3 px-5" id="btncamera" style="margin-top: 5.5rem;">Start Webcam</button>
                                 </div>
                             </div>
-                            <div class="col-12">
-                                <button class="btn btn-primary rounded-pill py-3 px-5" type="submit">Send Message</button>
-                            </div>
+                            
+                            
                         </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- LEFT FUNCTION -->
-
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-0 gx-5 align-items-end">
@@ -206,6 +206,29 @@
     <script src="aiscripts/result.js"></script>
     <script src="aiscripts/getlocation.js"></script>
 
+<!---- HIDE WEBCAM ON MOBILE VIEW-->
 
+    <script type="text/javascript">
+        function hideOnMobile() {
+          var webcamContainer = document.getElementById('webcam-container');
+          var predictionLabel = document.getElementById('webcam-prediction-label');
+          var btnCamera = document.getElementById('btncamera');
+      
+          // Check if the screen width is less than or equal to a certain value (e.g., 768 pixels for typical mobile view)
+          if (window.innerWidth <= 768) {
+            webcamContainer.style.display = 'none';
+            predictionLabel.style.display = 'none';
+            btnCamera.style.display = 'none';
+          } else {
+            webcamContainer.style.display = 'block';
+            predictionLabel.style.display = 'block';
+            btnCamera.style.display = 'block';
+          }
+        }
+      
+        // Call the function on page load and window resize
+        window.onload = hideOnMobile;
+        window.onresize = hideOnMobile;
+      </script>
 </body>
 </html>

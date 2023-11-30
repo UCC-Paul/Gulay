@@ -49,8 +49,6 @@
             <h1 class="display-3 mb-3 animated slideInDown">About Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item"><a class="text-body" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-body" href="#">Pages</a></li>
                     <li class="breadcrumb-item text-dark active" aria-current="page">About Us</li>
                 </ol>
             </nav>
@@ -69,72 +67,93 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Best Organic Fruits And Vegetables</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <h1 class="display-5 mb-4">Best Organic Vegies</h1>
+                    <p class="mb-4">Organic agriculture is an environmentally friendly production option available. It is necessary for guaranteeing food supply, relieving impoverishment, and protecting dynamic mineral deposits on which current and future generations will be completely reliant for their persistence and security.</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Home Gardening Reduces Carbon Emission</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Gardening Makes a Fine Family Hobby</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>It Reduces Your Grocery Budget</p>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="https://www.bria.com.ph/articles/the-benefits-of-growing-your-own-food-tips-for-starting-a-home-garden/">Read More</a>
                 </div>
             </div>
         </div>
     </div>
     <!-- About End -->
 
-
-    <!-- Firm Visit Start -->
-    <div class="container-fluid bg-primary bg-icon mt-5 py-6">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-5 text-white mb-3">Visit Our Firm</h1>
-                    <p class="text-white mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
-                </div>
-                <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Visit Now</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Firm Visit End -->
-
-
-    <!-- Feature Start -->
     <div class="container-fluid bg-light bg-icon py-6">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Our Features</h1>
-                <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                <h1 class="display-5 mb-3">Our Team</h1>
+                <p>We are a group of Student from University of Caloocan City Congressional Campus and we dream for a greener world.</p>
             </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
-                        <h4 class="mb-3">Natural Process</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">To plant a garden is to believe in tomorrow.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg" alt="">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Paul Arangorin</h5>
+                            <span>Full Stack Developer</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
-                        <h4 class="mb-3">Organic Products</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">It’s not a bug; it’s an undocumented feature.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg" alt="">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Joshua Fabillion</h5>
+                            <span>Full Stack Developer</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
-                        <h4 class="mb-3">Biologically Safe</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">My garden is my most beautiful masterpiece.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Kent Nuñez</h5>
+                            <span>Front End Developer/Researcher</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">To nurture a garden is to feed not just the body, but the soul.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <div class="ms-3">
+                            <h5 class="mb-1">Alryan Licup</h5>
+                            <span>Front End Developer</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">Gardening adds years to your life and life to your years.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <div class="ms-3">Vince Sy</h5>
+                            <span>Front End Developer/Researcher</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item position-relative bg-white p-5 mt-4">
+                    <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
+                    <p class="mb-4">Clean code always looks like it was written by someone who cares.</p>
+                    <div class="d-flex align-items-center">
+                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg" alt="">
+                        <div class="ms-3">
+                            <h5 class="mb-1">kevin Quimba</h5>
+                            <span>Full Stack Developer</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Feature End -->
 
 
     <!-- Include Footer -->
