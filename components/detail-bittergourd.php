@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Tomato</title>
+    <title>VegetalBite - BitterGourd</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -72,11 +72,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Tomato</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">BitterGourd</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Tomato</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">BitterGourd</a></li>
               </ol>
           </nav>
       </div>
@@ -89,59 +89,59 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/tomato/tomato (9).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (8).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (6).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (7).jpg" alt = "">
+              <img src = "../img/vegetables/ampalaya/ampalaya (1).jpg" alt = "">
+              <img src = "../img/vegetables/ampalaya/ampalaya (2).jpg" alt = "">
+              <img src = "../img/vegetables/ampalaya/ampalaya (3).jpg" alt = "">
+              <img src = "../img/vegetables/ampalaya/ampalaya (4).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/tomato/tomato (9).jpg" alt = "">
+                <img src = "../img/vegetables/ampalaya/ampalaya (1).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/tomato/tomato (8).jpg" alt = "">
+                <img src = "../img/vegetables/ampalaya/ampalaya (2).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/tomato/tomato (6).jpg" alt = "">
+                <img src = "../img/vegetables/ampalaya/ampalaya (3).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/tomato/tomato (7).jpg" alt = "" style="width: 80%;">
+                <img src = "../img/vegetables/ampalaya/ampalaya (4).jpg" alt = "">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Tomato</h2>
+          <h2 class = "product-title">BitterGourd</h2>
           <div class = "product-price">
-            <p class = "last-price">Kamatis</p>
+            <p class = "last-price">Ampalaya</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers </strong>  - the larger the container, the easier it will be to look after the plants. Ideally, each plant needs at least a <strong>6-7" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - add extra nutrients to multi-purpose compost - either mix garden compost into the bottom half of the container or add slow-release fertiliser.</p>
-            <p><strong>Water regularly</strong> to keep the compost moist – this can mean at least once a day in hot weather when the plants grow larger. As soon as fruits start to form, feed the plants regularly with a proprietary liquid tomato food according to the manufacturer’s instructions.</p>
+            <p><strong>Soil </strong>- It tolerates a wide range of soils but prefers permeable, sandy loam soil rich in organic matter. BitterGourd grows in slightly acidic to slightly alkaline soil. The pH range of around <strong>6 to 7.1 </strong>is ideal and about <strong>10-12" inches </strong>deep soil.</p>
+            <p><strong>Planting </strong> - Once the bitter gourd vine grows longer, you need to use a rope so that the vine can have something to climb on and grow further. You will also notice that flowers are sprouting on the vine on the 8th week.</p>
+            <p><strong>Water</strong> - Water the seeds daily and patiently wait for at least a week before the seedlings emerge from the ground. Be careful not to overwater it, though. Once the plant has grown about 2-3 inches, provide support for the vine. Use a <strong>strong stick at first</strong>.</p>
             <ul>
-              <li>Vitamins: <span>A,C,K, Potassium</span></li>
-              <li>Soil Acidity: <span>6.2 - 6.8</span></li>
-              <li>Maintenace: <span>Easy to Maintain</span></li>
-              <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Sarciado, Sinigang, Inihaw na Bangus, Torta </span></li>
+              <li>Vitamins: <span>A,K,Iron,Manganese,Calcium</span></li>
+              <li>Soil Acidity: <span>6.0 - 6.7</span></li>
+              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
+              <li>Water Frequency: <span>Once Daily</span></li>
+              <li>Top Dishes: <span>Ginisang Ampalaya, Pinakbet, Paksiw</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://cagayanvalley.da.gov.ph/wp-content/uploads/2018/02/Tomato.pdf" class="btn">View Source</a>
+            <a href="https://ampalayaplus.com/blog/grow-ampalaya-in-backyard-ampalaya-plus-natural-food-supplement/#:~:text=If%20using%20a%20pot%2C%20ensure,of%20your%20bitter%20gourd%20plant.&text=Make%20sure%20that%20the%20seeds,%2C%20put%201%2D2%20seeds." class="btn">View Source</a>
           </div>
 
 

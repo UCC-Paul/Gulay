@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Tomato</title>
+    <title>VegetalBite - Basil</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -72,11 +72,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Tomato</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">Basil</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Tomato</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">Basil</a></li>
               </ol>
           </nav>
       </div>
@@ -89,59 +89,58 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/tomato/tomato (9).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (8).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (6).jpg" alt = "">
-              <img src = "../img/vegetables/tomato/tomato (7).jpg" alt = "">
+              <img src = "../img/vegetables/basil/basil (1).jpg" alt = "">
+              <img src = "../img/vegetables/basil/basil (2).jpg" alt = "">
+              <img src = "../img/vegetables/basil/basil (3).jpg" alt = "">
+              <img src = "../img/vegetables/basil/basil (4).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/tomato/tomato (9).jpg" alt = "">
+                <img src = "../img/vegetables/basil/basil (1).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/tomato/tomato (8).jpg" alt = "">
+                <img src = "../img/vegetables/basil/basil (2).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/tomato/tomato (6).jpg" alt = "">
+                <img src = "../img/vegetables/basil/basil (3).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/tomato/tomato (7).jpg" alt = "" style="width: 80%;">
+                <img src = "../img/vegetables/basil/basil (4).jpg" alt = "">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Tomato</h2>
+          <h2 class = "product-title">Basil</h2>
           <div class = "product-price">
-            <p class = "last-price">Kamatis</p>
+            <p class = "last-price">Basil</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers </strong>  - the larger the container, the easier it will be to look after the plants. Ideally, each plant needs at least a <strong>6-7" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - add extra nutrients to multi-purpose compost - either mix garden compost into the bottom half of the container or add slow-release fertiliser.</p>
-            <p><strong>Water regularly</strong> to keep the compost moist – this can mean at least once a day in hot weather when the plants grow larger. As soon as fruits start to form, feed the plants regularly with a proprietary liquid tomato food according to the manufacturer’s instructions.</p>
+            <p><strong>Soil </strong>  - Basil prefers fertile, well-drained <strong>loamy soils</strong> rich in organic matter. Most soils in Utah are well suited for basil production. Choose sites that have good <strong>air circulation</strong> around the plants.</p>
+            <p><strong>Planting </strong> -Sow seeds 1/8 inch deep, cover lightly with soil, and water regularly so that the soil doesn’t dry out. Basil grown in full sun has more essential oils and better flavor than shade grown basil. After the seedlings emerge, thin to 3-4 inches apart leaving larger plants. Continue to thin the seedlings until the final plant stand is 12 inches apart. Thinned plants can be eater or transplanted to adjacent areas.</p>
+            <p><strong>Water</strong> Water basil regularly supplying <strong> 1½ inches </strong> of water per week to maintain vigorous growth. Irrigation will prevent wilting that slows growth, damages roots, and stunts plants. Drip irrigation systems can work well for watering basil plants.</p>
             <ul>
-              <li>Vitamins: <span>A,C,K, Potassium</span></li>
-              <li>Soil Acidity: <span>6.2 - 6.8</span></li>
-              <li>Maintenace: <span>Easy to Maintain</span></li>
-              <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Sarciado, Sinigang, Inihaw na Bangus, Torta </span></li>
+              <li>Vitamins: <span>A,K,Iron,Manganese,Calcium</span></li>
+              <li>Soil Acidity: <span>6.0 - 7.0</span></li>
+              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
+              <li>Water Frequency: <span>Once Daily</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://cagayanvalley.da.gov.ph/wp-content/uploads/2018/02/Tomato.pdf" class="btn">View Source</a>
+            <a href="https://extension.usu.edu/yardandgarden/research/basil-in-the-garden#:~:text=Basil%20loves%20warm%20weather%2C%20lots,4%20inches%20apart%20after%20emergence." class="btn">View Source</a>
           </div>
 
 

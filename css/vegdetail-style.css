@@ -23,13 +23,14 @@ img{
 }
 .img-showcase img{
     min-width: 100%;
-
 }
 .img-select{
     display: flex;
 }
 .img-item{
     margin: 0.3rem;
+    width: 150px;
+    height: 100px;
 }
 .img-item:nth-child(1),
 .img-item:nth-child(2),

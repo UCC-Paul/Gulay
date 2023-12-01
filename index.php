@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    <link rel="icon" type="image/x-icon" href="img/icon.png">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -179,7 +180,7 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Resouces and Informations</h1>
+                <h1 class="display-5 mb-3">Resources and Informations</h1>
                 <p>VegetalBite provides accurate advice about planting based on these resources.</p>
             </div>
             <div class="row g-4">

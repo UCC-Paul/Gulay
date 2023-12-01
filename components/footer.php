@@ -5,10 +5,7 @@
                   <h1 class="fw-bold text-primary mb-4">Vegetal<span class="text-secondary">Bi</span>te</h1>
                   <p>Develop and Customized by team Vege. All contents and resources used belongs to the rightful owner.</p>
                   <div class="d-flex pt-2">
-                      <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
                       <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                      <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-youtube"></i></a>
-                      <a class="btn btn-square btn-outline-light rounded-circle me-0" href=""><i class="fab fa-linkedin-in"></i></a>
                   </div>
               </div>
               <div class="col-lg-3 col-md-6">
@@ -18,16 +15,8 @@
                   <p><i class="fa fa-envelope me-3"></i>vegetalbite@info.org</p>
               </div>
               <div class="col-lg-3 col-md-6">
-                  <h4 class="text-light mb-4">Quick Links</h4>
-                  <a class="btn btn-link" href="">About Us</a>
-                  <a class="btn btn-link" href="">Contact Us</a>
-                  <a class="btn btn-link" href="">Our Services</a>
-                  <a class="btn btn-link" href="">Terms & Condition</a>
-                  <a class="btn btn-link" href="">Support</a>
-              </div>
-              <div class="col-lg-3 col-md-6">
                   <h4 class="text-light mb-4">Newsletter</h4>
-                  <p>Website Last Updated November 26, 2023</p>
+                  <p>Website Last Updated December 03, 2023</p>
                   
               </div>
           </div>
