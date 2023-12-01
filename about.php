@@ -91,7 +91,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">To plant a garden is to believe in tomorrow.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/paul.jpg" alt="">
                         <div class="ms-3">
                             <h5 class="mb-1">Paul Arangorin</h5>
                             <span>Full Stack Developer</span>
@@ -102,7 +102,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">It’s not a bug; it’s an undocumented feature.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/joshua.jpg" alt="">
                         <div class="ms-3">
                             <h5 class="mb-1">Joshua Fabillion</h5>
                             <span>Full Stack Developer</span>
@@ -113,7 +113,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">My garden is my most beautiful masterpiece.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/kent.jpg" alt="">
                         <div class="ms-3">
                             <h5 class="mb-1">Kent Nuñez</h5>
                             <span>Front End Developer/Researcher</span>
@@ -124,7 +124,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">To nurture a garden is to feed not just the body, but the soul.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/alryan.jpg" alt="">
                         <div class="ms-3">
                             <h5 class="mb-1">Alryan Licup</h5>
                             <span>Front End Developer</span>
@@ -135,7 +135,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">Gardening adds years to your life and life to your years.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/vince.jpg" alt="">
                         <div class="ms-3">Vince Sy</h5>
                             <span>Front End Developer/Researcher</span>
                         </div>
@@ -145,7 +145,7 @@
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">Clean code always looks like it was written by someone who cares.</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg" alt="">
+                        <img class="flex-shrink-0 rounded-circle" src="img/team/kevin.jpg" alt="">
                         <div class="ms-3">
                             <h5 class="mb-1">kevin Quimba</h5>
                             <span>Full Stack Developer</span>
