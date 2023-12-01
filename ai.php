@@ -57,7 +57,7 @@
                 <div class="col-lg-5 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-primary text-white d-flex flex-column justify-content-center h-100 p-5">
                         <h5 class="text-white">Soil Type</h5>
-                        <select id="select-soil">
+                        <select id="select-soil" style="padding: 10px; border-radius: 5rem;">
                             <option selected="selected" disabled hidden>Select Soil Type</option>
                             <option value="Anysoil">Any Type</option>
                             <option value="Loam">Loam Soil</option>
@@ -66,18 +66,18 @@
                             <option value="DryClay">Dry Clay Soil</option>
                         </select>
                         <h5 class="text-white">Planting Location</h5>
-                        <select id="select-city">
+                        <select id="select-city" style="padding: 10px;border-radius: 5rem;">
                             <option selected="selected" disabled hidden>Select City or Plant at Home</option>
                             <option value="Home">Plant at Home</option>
                             <option value="Baguio">Baguio City</option>
                             <option value="MM">Metro Manila</option>
                             <option value="Caloocan">Caloocan City</option>
                         </select>
-                        <button id="get-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Location Automatically</button>
-                        <button id="clear-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Clear Location</button>   
+                        <button id="get-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: #664229; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Location Automatically</button>
+                        <button id="clear-location" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: #664229; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Clear Location</button>   
                         <div id="location-details"></div>
                         <h5 class="text-white">Planting Date</h5>
-                        <select id="select-month">
+                        <select id="select-month" style="padding: 10px;border-radius: 5rem;">
                             <option selected="selected" disabled hidden>Select month to start planting</option>
                             <option value="January">January</option>
                             <option value="February">February</option>
@@ -94,8 +94,8 @@
                         </select>
                         
                         
-                        <div class="d-flex pt-2">
-                            <button id="getresult" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: yellowgreen; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Crop Recommendation</button>
+                        <div class="d-flex pt-2" style="margin:auto;">
+                            <button id="getresult" class="btn btn-primary rounded-pill py-3 px-5" style="border: 2px solid black !important; background-color: #664229; width: 280px; align-self: center; font-size: 14px; margin-top: 20px;">Get Crop Recommendation</button>
                         </div>
                     </div>
                 </div>
