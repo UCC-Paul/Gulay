@@ -27,7 +27,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/cabbage/cabbage (3).jpg" alt="" style="height: 223px;">
+                                    <img class="img-fluid w-100" src="img/vegetables/cabbage/cabbage (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -46,7 +46,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/basil/basil (2).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/basil/basil (2).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -69,7 +69,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/Sitao/sitaw (3).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/Sitao/sitaw (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -88,7 +88,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/tomato/tomato (6).png" alt="" >
+                                    <img class="img-fluid w-100" src="img/vegetables/tomato/tomato (6).png" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -126,7 +126,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/sayote/sayote (4).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/sayote/sayote (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -145,7 +145,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (4).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -164,7 +164,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/bellpepper/bellpepper (4).jpg" alt="" style="height: 200px;">
+                                    <img class="img-fluid w-100" src="img/vegetables/bellpepper/bellpepper (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -183,7 +183,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/eggplant/eggplant (3).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/eggplant/eggplant (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -209,7 +209,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/carrot/carrot (4).jpg" alt="" style="height: 300px;" >
+                                    <img class="img-fluid w-100" src="img/vegetables/carrot/carrot (4).jpg" alt="" style="height: 300px !important;" >
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -228,7 +228,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/potato/potato (1).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/potato/potato (1).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">

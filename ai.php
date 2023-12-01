@@ -109,7 +109,7 @@
                                     <button id="clear-image-and-select" class="btn btn-primary rounded-pill py-3 px-5" style="margin-top: 4rem;">Clear Image</button>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6" id="hidonmobile">
                                 <div class="form-floating">
                                     <div id="webcam-container" style="height: 300px; width: 300px; border: 2px solid black; background: url(img/noimg.jpg)"></div>
                                     <div id="webcam-prediction-label" style="font-size: 14px; height: 5px;"></div>
@@ -141,7 +141,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" id="tomatoContainer" style="display: none;">
                             <div class="product-item">
                               <div class="position-relative bg-light overflow-hidden">
-                                <img class="img-fluid w-100" src="img/vegetables/tomato/tomato (6).jpg" alt="">
+                                <img class="img-fluid w-100" src="img/vegetables/tomato/tomato (6).jpg" alt="" style="height: 300px !important;">
                                 <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                               </div>
                               <div class="text-center p-4">
@@ -160,7 +160,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" id="ampalayaContainer" style="display: none;">
                             <div class="product-item">
                               <div class="position-relative bg-light overflow-hidden">
-                                <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (3).jpg" alt="" style="height: 320px;">
+                                <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (3).jpg" alt="" style="height: 300px !important;">
                                 <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                               </div>
                               <div class="text-center p-4">
@@ -179,7 +179,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" id="cabbageContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/cabbage/cabbage (3).jpg" alt="" style="height: 223px;">
+                                    <img class="img-fluid w-100" src="img/vegetables/cabbage/cabbage (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -198,7 +198,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" id="basilContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/basil/basil (2).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/basil/basil (2).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -217,7 +217,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="sitaoContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/Sitao/sitaw (3).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/Sitao/sitaw (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -236,7 +236,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="cucumberContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/cucumber/cucumber (4).jpg" alt="" style="height: 300px;">
+                                    <img class="img-fluid w-100" src="img/vegetables/cucumber/cucumber (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -255,7 +255,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="chayoteContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/sayote/sayote (4).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/sayote/sayote (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -274,7 +274,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="amplayaContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (4).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/ampalaya/ampalaya (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -293,7 +293,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="bellpepperContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/bellpepper/bellpepper (4).jpg" alt="" style="height: 200px;">
+                                    <img class="img-fluid w-100" src="img/vegetables/bellpepper/bellpepper (4).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -312,7 +312,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="eggplantContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/eggplant/eggplant (3).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/eggplant/eggplant (3).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -331,7 +331,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="carrotContainer" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/carrot/carrot (4).jpg" alt="" style="height: 300px;" >
+                                    <img class="img-fluid w-100" src="img/vegetables/carrot/carrot (4).jpg" alt="" style="height: 300px !important;" >
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -350,7 +350,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-6" id="potatoContainter" style="display: none;">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/vegetables/potato/potato (1).jpg" alt="">
+                                    <img class="img-fluid w-100" src="img/vegetables/potato/potato (1).jpg" alt="" style="height: 300px !important;">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
@@ -397,6 +397,23 @@
     <script src="aiscripts/imgwebcam.js"></script>
     <script src="aiscripts/result.js"></script>
     <script src="aiscripts/getlocation.js"></script>
+
+    <script type="text/javascript">
+    function hideOnMobile() {
+        var element = document.getElementById('hidonmobile');
+        if (window.innerWidth <= 768) { // Adjust the threshold as needed
+            element.style.display = 'none';
+        } else {
+            element.style.display = 'block';
+        }
+    }
+
+    // Initial check on page load
+    hideOnMobile();
+
+    // Attach the function to the window resize event
+    window.addEventListener('resize', hideOnMobile);
+</script>
 
 
 </body>
