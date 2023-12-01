@@ -43,15 +43,13 @@
             </div>
             <div class="col-lg-6 px-5 text-end">
                 <small>Follow us:</small>
-                <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
-                <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                <a class="text-body ms-3" href=""><i class="fab fa-instagram"></i></a>
+                <a class="text-body ms-3" href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
+
             </div>
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-            <a href="../index.html" class="navbar-brand ms-4 ms-lg-0">
+            <a href="../index.php" class="navbar-brand ms-4 ms-lg-0">
                 <h1 class="fw-bold text-primary m-0">Vegetal<span class="text-secondary">Bi</span>te</h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -61,6 +59,7 @@
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
                     <a href="../index.php" class="nav-item nav-link">Home</a>
                     <a href="../gallery.php" class="nav-item nav-link">Gallery</a>
+                    <a href="../calendar.php" class="nav-item nav-link">Crop Calendar</a>
                     <a href="../about.php" class="nav-item nav-link">About Us</a>
                     <a href="../ai.php" class="nav-item nav-link">AI Soil Identifier</a>
                 </div>
@@ -141,7 +140,7 @@
           </div>
 
           <div class = "purchase-info">
-            <a href="https://ampalayaplus.com/blog/grow-ampalaya-in-backyard-ampalaya-plus-natural-food-supplement/#:~:text=If%20using%20a%20pot%2C%20ensure,of%20your%20bitter%20gourd%20plant.&text=Make%20sure%20that%20the%20seeds,%2C%20put%201%2D2%20seeds." class="btn">View Source</a>
+            <a href="https://cagayanvalley.da.gov.ph/wp-content/uploads/2018/02/chayote.pdf" class="btn">View Source</a>
           </div>
 
 

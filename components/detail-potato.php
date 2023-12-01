@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Cabbage</title>
+    <title>VegetalBite - Potato</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -71,11 +71,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Cabbage</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">Potato</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Cabbage</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">Potato</a></li>
               </ol>
           </nav>
       </div>
@@ -88,59 +88,59 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+              <img src = "../img/vegetables/potato/potato (1).jpg" alt = "">
+              <img src = "../img/vegetables/potato/potato (2).jpg" alt = "">
+              <img src = "../img/vegetables/potato/potato (3).jpg" alt = "">
+              <img src = "../img/vegetables/potato/potato (4).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
+                <img src = "../img/vegetables/potato/potato (1).jpg" alt = "" style="height: 100px;">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
+                <img src = "../img/vegetables/potato/potato (2).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "" style="height: 120px;">
+                <img src = "../img/vegetables/potato/potato (3).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+                <img src = "../img/vegetables/potato/potato (4).jpg" alt = "">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Cabbage</h2>
+          <h2 class = "product-title">Potato</h2>
           <div class = "product-price">
-            <p class = "last-price">Repolyo</p>
+            <p class = "last-price">Patatas</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers/Soil </strong>  - For optimal growth, cabbage thrives in deep, well-drained loamy soil that is enriched with organic matter. Loamy sand can also be suitable, but adequate irrigation is necessary.<strong>4-6" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - Cabbage is a heavy feeder; it quickly depletes the soil of nutrients and <strong>needs</strong> a steady supply of <strong>water and nutrients</strong> throughout its growth. Prepare the soil in advance by mixing in aged <strong>manure and/or compost</strong>. Soil should also be well-draining: roots that stand in water cause heads to <strong>split or rot.</strong> </p>
-            <p><strong>Sunlight</strong> Choose a planting site that gets full sun ( <strong> 6 to 8 hours </strong> of <strong>direct sunlight</strong> per day) in order to get the best results.</p>
+            <p><strong>Planting </strong>  - Cut your seed potatoes into <strong>1 to 2-inch</strong> chunks, assuring each piece has at least one eye. Small seed potatoes can be left whole. The <strong>more chunks</strong> you have, the more plants you can <strong>grow</strong>. Set the newly cut <strong>seed potatoes out</strong> on a plate or paper towel for about <strong>48 hours</strong> to allow them to air dry. This will help prevent rotting once the potatoes are planted</p>
+            <p><strong>Soil </strong> - Plant your seed potatoes directly in the pot after the risk of frost has passed. Fill your pot with about <strong>6 inches</strong> of <strong>quality, organic potting soil</strong>. Then, place your cured seed potatoes eyes up on the soil surface.</p>
+            <p><strong>Sunlight</strong> - Potatoes are nightshades just like tomatoes and peppers. And just like their hot-headed cousins, potato plants need <strong>plenty of light and heat</strong> to grow well. When choosing a spot to put your potato container garden, look for an area that gets at least six hours of direct sunlight each day. Placing pots against a south-facing wall will help give the plants the heat they crave.</p>
             <ul>
-              <li>Vitamins: <span>A,C,K,B6</span></li>
-              <li>Soil Acidity: <span>5.6 - 7.0</span></li>
-              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
+              <li>Vitamins: <span>C,B6, Fiber, Potassium</span></li>
+              <li>Soil Acidity: <span>6 - 6.5</span></li>
+              <li>Maintenace: <span>Easy to Maintain</span></li>
               <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Ginisang Repolyo, Nilaga, Sopas</span></li>
+              <li>Top Dishes: <span>Pork Steak, French Fries, Mashed Potato</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://ati2.da.gov.ph/e-extension/content/sites/default/files/2023-03/Cabbage%20Production%20Guide.pdf" class="btn">View Source</a>
+            <a href="https://cleangreensimple.com/article/how-to-grow-potatoes-in-pots/" class="btn">View Source</a>
           </div>
 
 
@@ -148,9 +148,9 @@
       </div>
     </div>
 
-    <!-- Footer Start -->
+    <!-- Include Footer -->
     <?php include 'footer.php'; ?>
-    <!-- Footer End -->
+
 
     
 

@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Cabbage</title>
+    <title>VegetalBite - Bell Pepper</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -71,11 +71,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Cabbage</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">Bell Pepper</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Cabbage</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">Bell Pepper</a></li>
               </ol>
           </nav>
       </div>
@@ -88,59 +88,58 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+              <img src = "../img/vegetables/bellpepper/bellpepper (1).jpg" alt = "">
+              <img src = "../img/vegetables/bellpepper/bellpepper (2).jpg" alt = "">
+              <img src = "../img/vegetables/bellpepper/bellpepper (3).jpg" alt = "">
+              <img src = "../img/vegetables/bellpepper/bellpepper (4).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
+                <img src = "../img/vegetables/bellpepper/bellpepper (1).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
+                <img src = "../img/vegetables/bellpepper/bellpepper (2).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "" style="height: 120px;">
+                <img src = "../img/vegetables/bellpepper/bellpepper (3).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+                <img src = "../img/vegetables/bellpepper/bellpepper (4).jpg" alt = "" style="height: 100px;">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Cabbage</h2>
+          <h2 class = "product-title">Bell Pepper</h2>
           <div class = "product-price">
-            <p class = "last-price">Repolyo</p>
+            <p class = "last-price">Bell Pepper</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers/Soil </strong>  - For optimal growth, cabbage thrives in deep, well-drained loamy soil that is enriched with organic matter. Loamy sand can also be suitable, but adequate irrigation is necessary.<strong>4-6" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - Cabbage is a heavy feeder; it quickly depletes the soil of nutrients and <strong>needs</strong> a steady supply of <strong>water and nutrients</strong> throughout its growth. Prepare the soil in advance by mixing in aged <strong>manure and/or compost</strong>. Soil should also be well-draining: roots that stand in water cause heads to <strong>split or rot.</strong> </p>
-            <p><strong>Sunlight</strong> Choose a planting site that gets full sun ( <strong> 6 to 8 hours </strong> of <strong>direct sunlight</strong> per day) in order to get the best results.</p>
+            <p><strong>Soil & Container </strong>  - An ideal container size would have around <strong>18 inches in diameter and depth</strong>. Make sure there are enough holes at the bottom to allow excess water to drain properly.  A smaller sized pot is still do-able but this may inhibit the growth of the plant to its full potential. When using pots, <strong>use a well draining soil</strong>, mixed with a good amount of compost and a little coarse sand or perlite (if available).</p>
+            <p><strong>Sunlight </strong> - Bell pepper need at least <strong>6 hours of sunlight</strong>. Sunlight enables the plant to produce pepper continuously.  However, too much sun can also scorch the leaves of the plants and cause the leaves to curl, especially during the summer months.</p>
+            <p><strong>Watering & Pruning</strong>Peppers like even watering, but never like to be <strong>overwatered</strong>! Keep them moist, but never soaked, and allow water to drain away from the plant roots. We recommend <strong>plucking early flowers</strong> until the plants have been outdoors in their final planting location for 2-3 weeks.</p>
             <ul>
-              <li>Vitamins: <span>A,C,K,B6</span></li>
-              <li>Soil Acidity: <span>5.6 - 7.0</span></li>
-              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
-              <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Ginisang Repolyo, Nilaga, Sopas</span></li>
+              <li>Vitamins: <span>A,C,Potassium</span></li>
+              <li>Soil Acidity: <span>6.5 - 7.0</span></li>
+              <li>Maintenace: <span>Easy to Maintain</span></li>
+              <li>Water Frequency: <span>Frequent</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://ati2.da.gov.ph/e-extension/content/sites/default/files/2023-03/Cabbage%20Production%20Guide.pdf" class="btn">View Source</a>
+            <a href="https://peppergeek.com/growing-bell-peppers/" class="btn">View Source</a>
           </div>
 
 
@@ -148,9 +147,9 @@
       </div>
     </div>
 
-    <!-- Footer Start -->
+    <!-- Include Footer -->
     <?php include 'footer.php'; ?>
-    <!-- Footer End -->
+
 
     
 

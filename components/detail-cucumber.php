@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Cabbage</title>
+    <title>VegetalBite - Cucumber</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -71,11 +71,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Cabbage</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">Cucumber</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Cabbage</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">Cucumber</a></li>
               </ol>
           </nav>
       </div>
@@ -88,59 +88,59 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+              <img src = "../img/vegetables/cucumber/cucumber (1).jpg" alt = "">
+              <img src = "../img/vegetables/cucumber/cucumber (2).jpg" alt = "">
+              <img src = "../img/vegetables/cucumber/cucumber (3).jpg" alt = "">
+              <img src = "../img/vegetables/cucumber/cucumber (4).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
+                <img src = "../img/vegetables/cucumber/cucumber (1).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
+                <img src = "../img/vegetables/cucumber/cucumber (2).jpg" alt = "">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "" style="height: 120px;">
+                <img src = "../img/vegetables/cucumber/cucumber (3).jpg" alt = "" style="height: 100px;">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+                <img src = "../img/vegetables/cucumber/cucumber (4).jpg" alt = "" style="height: 100px;">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Cabbage</h2>
+          <h2 class = "product-title">Cucumber</h2>
           <div class = "product-price">
-            <p class = "last-price">Repolyo</p>
+            <p class = "last-price">Pipino</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers/Soil </strong>  - For optimal growth, cabbage thrives in deep, well-drained loamy soil that is enriched with organic matter. Loamy sand can also be suitable, but adequate irrigation is necessary.<strong>4-6" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - Cabbage is a heavy feeder; it quickly depletes the soil of nutrients and <strong>needs</strong> a steady supply of <strong>water and nutrients</strong> throughout its growth. Prepare the soil in advance by mixing in aged <strong>manure and/or compost</strong>. Soil should also be well-draining: roots that stand in water cause heads to <strong>split or rot.</strong> </p>
-            <p><strong>Sunlight</strong> Choose a planting site that gets full sun ( <strong> 6 to 8 hours </strong> of <strong>direct sunlight</strong> per day) in order to get the best results.</p>
+            <p><strong>Soil </strong>  - The cucumber requires soils with a large number of <strong>nutrients</strong> so <strong>organic fertilizer and composts are needed</strong>. We always recommend using <strong>organic fertilizers</strong>, such as earthworm humus, compost, or livestock and poultry manure.</p>
+            <p><strong>Planting </strong> The cucumber is usually sown at the <strong>end of the summer season</strong> in the Philippines from the <strong>last week of April to May</strong>. However, if you live in a fresh weather area you can wait until well in June to avoid the risk of high temperatures that could kill the plant.</p>
+            <p><strong>Water</strong> The cucumber <strong>likes heat</strong>, but if you live in an area where temperatures are very high, you should not expose it to the worst hours of the summer sun. Look for a <strong>semi-shade location</strong>, where the plants are covered in the heat of noon.</p>
             <ul>
-              <li>Vitamins: <span>A,C,K,B6</span></li>
-              <li>Soil Acidity: <span>5.6 - 7.0</span></li>
-              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
-              <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Ginisang Repolyo, Nilaga, Sopas</span></li>
+              <li>Vitamins: <span>B1,B2,B3,,B5,B6,C,Calcium</span></li>
+              <li>Soil Acidity: <span>6.0 - 6.8</span></li>
+              <li>Maintenace: <span>add fertilizers to boost production</span></li>
+              <li>Water Frequency: <span>Once Daily</span></li>
+              <li>Top Dishes: <span>Salads, Cucumber Juice</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://ati2.da.gov.ph/e-extension/content/sites/default/files/2023-03/Cabbage%20Production%20Guide.pdf" class="btn">View Source</a>
+            <a href="https://agraryo.com/agriculture/cucumber-farming-in-the-philippines-how-to-plant-and-grow-pipino/" class="btn">View Source</a>
           </div>
 
 

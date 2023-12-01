@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>VegetalBite - Cabbage</title>
+    <title>VegetalBite - Bush Sitao</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -71,11 +71,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
       <div class="container">
-          <h1 class="display-3 mb-3 animated slideInDown">Cabbage</h1>
+          <h1 class="display-3 mb-3 animated slideInDown">Bush Sitao</h1>
           <nav aria-label="breadcrumb animated slideInDown">
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a class="text-body" href="../gallery.php">Gallery</a></li>
-                  <li class="breadcrumb-item"><a class="text-body" href="#">Cabbage</a></li>
+                  <li class="breadcrumb-item"><a class="text-body" href="#">Bush Sitao</a></li>
               </ol>
           </nav>
       </div>
@@ -88,59 +88,60 @@
         <div class = "product-imgs">
           <div class = "img-display">
             <div class = "img-showcase">
-              <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "">
-              <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+              <img src = "../img/vegetables/sitao/sitaw (1).jpeg" alt = "">
+              <img src = "../img/vegetables/sitao/sitaw (1).jpg" alt = "">
+              <img src = "../img/vegetables/sitao/sitaw (2).jpg" alt = "">
+              <img src = "../img/vegetables/sitao/sitaw (3).jpg" alt = "">
             </div>
           </div>
           <div class = "img-select">
             <div class = "img-item">
               <a href = "#" data-id = "1">
-                <img src = "../img/vegetables/cabbage/cabbage (2).jpg" alt = "">
+                <img src = "../img/vegetables/sitao/sitaw (1).jpeg" alt = "" style="height: 120px;">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "2">
-                <img src = "../img/vegetables/cabbage/cabbage (6).jpg" alt = "">
+                <img src = "../img/vegetables/sitao/sitaw (1).jpg" alt = "" >
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "3">
-                <img src = "../img/vegetables/cabbage/cabbage (5).jpeg" alt = "" style="height: 120px;">
+                <img src = "../img/vegetables/sitao/sitaw (2).jpg" alt = ""  style="height: 120px;">
               </a>
             </div>
             <div class = "img-item">
               <a href = "#" data-id = "4">
-                <img src = "../img/vegetables/cabbage/cabbage (4).jpg" alt = "">
+                <img src = "../img/vegetables/sitao/sitaw (3).jpg" alt = ""  style="height: 120px;">
               </a>
             </div>
           </div>
         </div>
         <!-- card right -->
         <div class = "product-content">
-          <h2 class = "product-title">Cabbage</h2>
+          <h2 class = "product-title">Bush Sitao</h2>
           <div class = "product-price">
-            <p class = "last-price">Repolyo</p>
+            <p class = "last-price">Sitaw</p>
           </div>
 
           <div class = "product-detail">
             <h2>What you need to know</h2>
 
-            <p><strong>Containers/Soil </strong>  - For optimal growth, cabbage thrives in deep, well-drained loamy soil that is enriched with organic matter. Loamy sand can also be suitable, but adequate irrigation is necessary.<strong>4-6" inches</strong> depth of soil in a container, They can look attractive in large hanging baskets too, but need frequent watering.</p>
-            <p><strong>Compost </strong> - Cabbage is a heavy feeder; it quickly depletes the soil of nutrients and <strong>needs</strong> a steady supply of <strong>water and nutrients</strong> throughout its growth. Prepare the soil in advance by mixing in aged <strong>manure and/or compost</strong>. Soil should also be well-draining: roots that stand in water cause heads to <strong>split or rot.</strong> </p>
-            <p><strong>Sunlight</strong> Choose a planting site that gets full sun ( <strong> 6 to 8 hours </strong> of <strong>direct sunlight</strong> per day) in order to get the best results.</p>
+            <p><strong>Trellising </strong>  - Support the pole sitaw with trellis when it starts to grow taller. Bamboo poles or sticks may be used to support the growing plant.</p>
+            <p><strong>Compost </strong> - Apply any available fertilizer. A well-decomposed chicken manure or compost. Tea manure and fermented plant juice (FPJ) may be used to improve soil fertility</p>
+            <p><strong>Sunlight</strong> - Pole sitaw grows best under full sunlight although it can tolerate partial shading. Adequate water supply and a friable, fertile soil promote healthy growth and quality pods.</p>
+            <p><strong>Water</strong> - Pole sitaw requires constant supply of water. Water the plants regularly to enhance flowering and pod setting. Avoid too much water, this can cause root rot. On the other hand, too little water can result to flower and pod drop</p>
             <ul>
-              <li>Vitamins: <span>A,C,K,B6</span></li>
-              <li>Soil Acidity: <span>5.6 - 7.0</span></li>
-              <li>Maintenace: <span>Observe for leaf eating pests</span></li>
+              <li>Vitamins: <span>A,C,Potassium,Iron</span></li>
+              <li>Soil Acidity: <span>5.5 - 6.8</span></li>
+              <li>Maintenace: <span>Needs Trellis</span></li>
               <li>Water Frequency: <span>Daily</span></li>
-              <li>Top Dishes: <span>Ginisang Repolyo, Nilaga, Sopas</span></li>
+              <li>Top Dishes: <span>Ginisang Sitaw, Adobong Sitaw, Kare-Kare</span></li>
             </ul>
           </div>
 
           <div class = "purchase-info">
-            <a href="https://ati2.da.gov.ph/e-extension/content/sites/default/files/2023-03/Cabbage%20Production%20Guide.pdf" class="btn">View Source</a>
+            <a href="https://ati2.da.gov.ph/ati-car/content/sites/default/files/2022-12/pole_sitaw_flyer.pdf" class="btn">View Source</a>
           </div>
 
 
